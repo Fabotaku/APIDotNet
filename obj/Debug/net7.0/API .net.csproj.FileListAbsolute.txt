@@ -1,0 +1,33 @@
+C:\vsc\API .net\bin\Debug\net7.0\appsettings.Development.json
+C:\vsc\API .net\bin\Debug\net7.0\appsettings.json
+C:\vsc\API .net\bin\Debug\net7.0\API .net.exe
+C:\vsc\API .net\bin\Debug\net7.0\API .net.deps.json
+C:\vsc\API .net\bin\Debug\net7.0\API .net.runtimeconfig.json
+C:\vsc\API .net\bin\Debug\net7.0\API .net.dll
+C:\vsc\API .net\bin\Debug\net7.0\API .net.pdb
+C:\vsc\API .net\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\vsc\API .net\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\vsc\API .net\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\vsc\API .net\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\vsc\API .net\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\vsc\API .net\obj\Debug\net7.0\API .net.csproj.AssemblyReference.cache
+C:\vsc\API .net\obj\Debug\net7.0\API .net.GeneratedMSBuildEditorConfig.editorconfig
+C:\vsc\API .net\obj\Debug\net7.0\API .net.AssemblyInfoInputs.cache
+C:\vsc\API .net\obj\Debug\net7.0\API .net.AssemblyInfo.cs
+C:\vsc\API .net\obj\Debug\net7.0\API .net.csproj.CoreCompileInputs.cache
+C:\vsc\API .net\obj\Debug\net7.0\API .net.MvcApplicationPartsAssemblyInfo.cs
+C:\vsc\API .net\obj\Debug\net7.0\API .net.MvcApplicationPartsAssemblyInfo.cache
+C:\vsc\API .net\obj\Debug\net7.0\staticwebassets\msbuild.API .net.Microsoft.AspNetCore.StaticWebAssets.props
+C:\vsc\API .net\obj\Debug\net7.0\staticwebassets\msbuild.build.API .net.props
+C:\vsc\API .net\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API .net.props
+C:\vsc\API .net\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API .net.props
+C:\vsc\API .net\obj\Debug\net7.0\staticwebassets.pack.json
+C:\vsc\API .net\obj\Debug\net7.0\staticwebassets.build.json
+C:\vsc\API .net\obj\Debug\net7.0\staticwebassets.development.json
+C:\vsc\API .net\obj\Debug\net7.0\scopedcss\bundle\API .net.styles.css
+C:\vsc\API .net\obj\Debug\net7.0\API .net.csproj.CopyComplete
+C:\vsc\API .net\obj\Debug\net7.0\API .net.dll
+C:\vsc\API .net\obj\Debug\net7.0\refint\API .net.dll
+C:\vsc\API .net\obj\Debug\net7.0\API .net.pdb
+C:\vsc\API .net\obj\Debug\net7.0\API .net.genruntimeconfig.cache
+C:\vsc\API .net\obj\Debug\net7.0\ref\API .net.dll
